@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow:
+Disallow: /data
+Disallow: /images/
+Disallow: /fonts/
+Disallow: /en/settings.html
+Disallow: /en/404.html
+Disallow: /ru/settings.html
+Disallow: /ru/404.html
+
+sitemap: https://evtools.pro/sitemap.xml
